@@ -29,8 +29,6 @@ As a one of Udacity data analyst Nanodegree program. This project use of Python 
 
 ### References & Citations
 Data provided by:
-
-    * capitalbikeshare.com 
-    * divvybikes.com 
-    * citibikenyc.com 
-
+* [Capital bikeshare](http://www.capitalbikeshare.com) 
+* [Divvy bikes](http://www.divvybikes.com) 
+* [Citi bikeny](http://www.citibikenyc.com) 
