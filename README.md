@@ -6,11 +6,11 @@ As a one of Udacity data analyst Nanodegree program. This project use of Python 
 * This process will be done using a Jupyter Notebook.
 * The code should run without errors.
 * Appropriate use of :
- * Data structures/types.
- * Loops/conditional statements.
- * Packages.
- * Functions.
- * Coding practices (i.e. Docstrings, comments, variable names & general readability)
+  * Data structures/types.
+  * Loops/conditional statements.
+  * Packages.
+  * Functions.
+  * Coding practices (i.e. Docstrings, comments, variable names & general readability)
    
 ## Analysis
 * Pose two questions about the data
