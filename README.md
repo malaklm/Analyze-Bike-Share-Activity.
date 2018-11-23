@@ -28,8 +28,7 @@ As a one of Udacity data analyst Nanodegree program. This project use of Python 
     ./Bike_Share_Analysis.ipynb.pdf is an exported version of the above file using LaTeX
 
 ### References & Citations
-
-    Data provided by:
-        capitalbikeshare.com
-        divvybikes.com
-        citibikenyc.com
+Data provided by:
+ * capitalbikeshare.com
+ * divvybikes.com
+ * citibikenyc.com
