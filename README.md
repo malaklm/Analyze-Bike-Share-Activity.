@@ -21,3 +21,15 @@ As a one of Udacity data analyst Nanodegree program. This project use of Python 
 * Perform additional exploratory analysis.
 * Consider where data analysis can be applied to other fields.
 
+### File Descriptions
+    ./data/ contains the various datasets
+    ./examples/ contains an example of the data cleaning process
+    ./Bike_Share_Analysis.ipynb is a Jupyter notebook containing the work I have done
+    ./Bike_Share_Analysis.ipynb.pdf is an exported version of the above file using LaTeX
+
+### References & Citations
+
+    Data provided by:
+        capitalbikeshare.com
+        divvybikes.com
+        citibikenyc.com
