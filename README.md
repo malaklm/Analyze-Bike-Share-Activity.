@@ -39,5 +39,5 @@ Data provided by:
 * [Divvy bikes](http://www.divvybikes.com) 
 * [Citi bikeny](http://www.citibikenyc.com) 
 
-#### Header and Bar desined using [Canva](http://https://www.canva.com) 
+#### Header and Bar designed using [Canva](http://https://www.canva.com) 
 #### Bike photography [Click](https://pngtree.com/freebackground/photography-yellow-background-bike_774501.html)
