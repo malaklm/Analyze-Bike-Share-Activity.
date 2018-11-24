@@ -29,7 +29,7 @@ As a one of Udacity data analyst Nanodegree program. This project use of Python 
     ./data/ contains the various datasets
     ./examples/ contains an example of the data cleaning process
     ./Bike_Share_Analysis.ipynb is a Jupyter notebook containing the work I have done
-    ./Bike_Share_Analysis.ipynb.pdf is an exported version of the above file using LaTeX
+    ./Bike_Share_Analysis.pdf is an exported version of the above file using LaTeX
 
 ![picture alt](bar.jpg)
 
